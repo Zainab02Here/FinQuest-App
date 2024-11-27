@@ -1,0 +1,250 @@
+{
+  "easy": {
+    "ques": [
+      "What does ROI stand for in investing?",
+      "What is the full form of KYC in banking?",
+      "What does NEFT stand for?",
+      "Which regulatory body oversees the securities market in India?",
+      "What is the primary objective of mutual funds?"
+    ],
+    "ans": [1, 1, 1, 2, 2],
+    "choices": [
+      [
+        "A) Return On Investment",
+        "B) Risk Of Inflation",
+        "C) Rate Of Interest",
+        "D) Ratio Of Income"
+      ],
+      [
+        "A) Know Your Customer",
+        "B) Know Your Character",
+        "C) Know Your Cash",
+        "D) Keep Your Currency"
+      ],
+      [
+        "A) National Electronic Fund Transfer",
+        "B) National Electric Fund Transfer",
+        "C) National Energy Fund Transfer",
+        "D) National Economic Fund Transfer"
+      ],
+      [
+        "A) RBI",
+        "B) SEBI",
+        "C) IRDAI",
+        "D) PFRDA"
+      ],
+      [
+        "A) To provide loans to businesses",
+        "B) To mobilize savings and invest in stock markets",
+        "C) To regulate financial institutions",
+        "D) To issue currency"
+      ]
+    ],
+    "feedback": [
+      [
+        "Correct! ROI stands for Return On Investment, which is a measure of the profitability of an investment.",
+        "Incorrect! Risk of Inflation is not what ROI refers to.",
+        "Incorrect! Rate of Interest is related to borrowing, not ROI.",
+        "Incorrect! Ratio Of Income is not the correct expansion of ROI in investing."
+      ],
+      [
+        "Correct! KYC stands for Know Your Customer, a process banks use to verify the identity of their clients.",
+        "Incorrect! Know Your Character is not the full form of KYC.",
+        "Incorrect! Know Your Cash is not the correct term for KYC.",
+        "Incorrect! Keep Your Currency is not the correct expansion of KYC in banking."
+      ],
+      [
+        "Correct! NEFT stands for National Electronic Fund Transfer, a system for transferring funds electronically.",
+        "Incorrect! National Electric Fund Transfer is not the correct term.",
+        "Incorrect! National Energy Fund Transfer is not what NEFT stands for.",
+        "Incorrect! National Economic Fund Transfer is not the correct expansion of NEFT."
+      ],
+      [
+        "Incorrect! RBI (Reserve Bank of India) is the central bank, not the securities market regulator.",
+        "Correct! SEBI (Securities and Exchange Board of India) oversees the securities market in India.",
+        "Incorrect! IRDAI regulates the insurance sector, not the securities market.",
+        "Incorrect! PFRDA deals with pensions, not securities."
+      ],
+      [
+        "Incorrect! Providing loans to businesses is not the core function of mutual funds.",
+        "Correct! The primary objective of mutual funds is to mobilize savings and invest in stock markets.",
+        "Incorrect! Regulating financial institutions is the role of regulatory bodies like SEBI, not mutual funds.",
+        "Incorrect! Issuing currency is the role of the RBI, not mutual funds."
+      ]
+    ]
+  },
+  "medium": {
+    "ques": [
+      "What is the primary purpose of a hedge fund?",
+      "What is a 'bear market'?",
+      "What is a 'blue chip' stock?",
+      "What is a bridging loan used for?",
+      "Which of the following is NOT an instrument of the money market?",
+      "What does 'Value at Risk (VaR)' measure?"
+    ],
+    "ans": [2, 2, 2, 2, 3, 2],
+    "choices": [
+      [
+        "A) To provide low-risk investments for retirees",
+        "B) To maximize returns using various investment strategies",
+        "C) To offer government-backed securities",
+        "D) To provide insurance against market crashes"
+      ],
+      [
+        "A) A market where stock prices are rising",
+        "B) A market where stock prices are falling",
+        "C) A market exclusively for trading animal products",
+        "D) A market with high trading volumes"
+      ],
+      [
+        "A) A newly listed company's stock",
+        "B) A stock of a well-established, financially sound company",
+        "C) A high-risk, high-reward stock",
+        "D) A stock that pays high dividends"
+      ],
+      [
+        "A) Long-term investment",
+        "B) Short-term financing",
+        "C) Buying stocks",
+        "D) Paying off credit card debt"
+      ],
+      [
+        "A) Treasury Bills",
+        "B) Commercial Papers",
+        "C) Equity Shares",
+        "D) Commercial Bills"
+      ],
+      [
+        "A) The total value of a company's assets",
+        "B) The potential loss in value of a portfolio over a defined period",
+        "C) The rate of return on an investment",
+        "D) The volatility of a stock price"
+      ]
+    ],
+    "feedback": [
+      [
+        "Incorrect! Hedge funds are high-risk, high-reward investment strategies.",
+        "Correct! Hedge funds aim to maximize returns by using diverse and often complex investment strategies.",
+        "Incorrect! Government-backed securities are generally low-risk and not associated with hedge funds.",
+        "Incorrect! While hedge funds may use strategies to protect against market downturns, this is not their primary purpose."
+      ],
+      [
+        "Incorrect! A market where stock prices are rising would be a bull market.",
+        "Correct! A bear market is characterized by a general decline in stock prices, often by 20% or more.",
+        "Incorrect! A bear market is not related to trading animal products.",
+        "Incorrect! High trading volumes don't define a bear market; it's about declining prices."
+      ],
+      [
+        "Incorrect! Newly listed stocks are often not considered 'blue chip' stocks.",
+        "Correct! A blue chip stock is from a well-established, financially stable company.",
+        "Incorrect! A high-risk, high-reward stock is not a blue chip stock.",
+        "Incorrect! While blue chip stocks often pay dividends, this is not their defining characteristic."
+      ],
+      [
+        "Incorrect! Bridging loans are typically for short-term financing, not long-term investments.",
+        "Correct! Bridging loans are short-term loans used to cover immediate financial needs, like property purchases.",
+        "Incorrect! Bridging loans are not for buying stocks.",
+        "Incorrect! While bridging loans can be used for various purposes, paying off credit card debt is not their typical use."
+      ],
+      [
+        "Incorrect! Treasury bills are a money market instrument.",
+        "Incorrect! Commercial papers are also part of the money market.",
+        "Correct! Equity shares are not a money market instrument, as they are part of the capital market.",
+        "Incorrect! Commercial bills are another money market instrument."
+      ],
+      [
+        "Incorrect! VaR does not measure the total value of assets.",
+        "Correct! Value at Risk (VaR) measures the potential loss in value of a portfolio over a specified period.",
+        "Incorrect! VaR is not concerned with the rate of return.",
+        "Incorrect! While related, VaR doesn't directly measure stock price volatility."
+      ]
+    ]
+  },
+  "hard": {
+    "ques": [
+      "The concept of Universal Banking in India was introduced based on the recommendations of:",
+      "Which of the following is NOT regulated by SEBI?",
+      "The Statutory Liquidity Ratio (SLR) is maintained by banks as per which act?",
+      "What is the 'Efficient Market Hypothesis'?",
+      "Which of the following best describes 'Arbitrage' in finance?",
+      "What is 'Quantitative Easing'?"
+    ],
+    "ans": [4, 4, 2, 2, 2, 2],
+    "choices": [
+      [
+        "A) Narasimham Committee",
+        "B) Rangarajan Committee",
+        "C) Kelkar Committee",
+        "D) Khan Committee"
+      ],
+      [
+        "A) Mutual Funds",
+        "B) Stock Brokers",
+        "C) Credit Rating Agencies",
+        "D) Non-Banking Financial Companies (NBFC)"
+      ],
+      [
+        "A) RBI Act, 1934",
+        "B) Banking Regulation Act, 1949",
+        "C) SEBI Act, 1992",
+        "D) Companies Act, 2013"
+      ],
+      [
+        "A) A theory stating markets always trend upward",
+        "B) A theory stating asset prices fully reflect all available information",
+        "C) A hypothesis about market volatility",
+        "D) A theory about market manipulation"
+      ],
+      [
+        "A) Long-term investing strategy",
+        "B) Simultaneous buying and selling to profit from price differences",
+        "C) A type of derivative contract",
+        "D) A method of calculating stock valuations"
+      ],
+      [
+        "A) A fiscal policy to reduce government spending",
+        "B) A monetary policy where a central bank purchases securities to increase money supply",
+        "C) A strategy to reduce inflation by increasing interest rates",
+        "D) A method of quantifying market risk"
+      ]
+    ],
+    "feedback": [
+      [
+        "Incorrect! Narasimham Committee focused on banking reforms, not universal banking.",
+        "Incorrect! Rangarajan Committee focused on economic policy, not universal banking.",
+        "Incorrect! Kelkar Committee addressed tax issues, not universal banking.",
+        "Correct! The Khan Committee specifically recommended the universal banking model in India."
+      ],
+      [
+        "Incorrect! Mutual Funds are regulated by SEBI.",
+        "Incorrect! Stock Brokers are also regulated by SEBI.",
+        "Incorrect! Credit Rating Agencies fall under SEBI's purview.",
+        "Correct! Non-Banking Financial Companies (NBFC) are not regulated by SEBI, they fall under RBI regulation."
+      ],
+      [
+        "Incorrect! The RBI Act does not mandate SLR maintenance.",
+        "Correct! The Banking Regulation Act, 1949, requires banks to maintain the Statutory Liquidity Ratio (SLR).",
+        "Incorrect! SEBI Act relates to securities markets and does not govern SLR.",
+        "Incorrect! The Companies Act does not cover SLR maintenance."
+      ],
+      [
+        "Incorrect! The Efficient Market Hypothesis does not suggest markets always trend upward.",
+        "Correct! The Efficient Market Hypothesis states that asset prices reflect all available information.",
+        "Incorrect! While related, this is not the primary focus of the Efficient Market Hypothesis.",
+        "Incorrect! The Efficient Market Hypothesis is not about market manipulation."
+      ],
+      [
+        "Incorrect! Arbitrage is not a long-term investing strategy.",
+        "Correct! Arbitrage involves profiting from price differences in different markets.",
+        "Incorrect! While arbitrage can involve derivatives, this is not its definition.",
+        "Incorrect! Arbitrage is not a method of stock valuation."
+      ],
+      [
+        "Incorrect! Quantitative Easing is a monetary policy, not a fiscal policy.",
+        "Correct! Quantitative Easing involves central banks purchasing securities to increase money supply.",
+        "Incorrect! This describes monetary tightening, not Quantitative Easing.",
+        "Incorrect! Quantitative Easing is not a method of quantifying market risk."
+      ]
+    ]
+  }
+}
